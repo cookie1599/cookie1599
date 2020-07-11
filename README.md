@@ -12,6 +12,8 @@ A Japanese themed development Discord server that focused to programming topic.
 
 
 you looking for me?
+
+
 📩 [LinkedIn](https://linkedin.com/in/cookie1599/)
 
 <!--
