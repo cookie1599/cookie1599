@@ -9,13 +9,15 @@ A Japanese themed development Discord server that focused to programming topic.
 🌐 https://mizudev.tech/
 
 
-![Atrisa's github stats](https://github-readme-stats.vercel.app/api?username=cookie1599&show_icons=true&theme=cobalt)
 
 
 you looking for me?
 
 
 📩 [LinkedIn](https://linkedin.com/in/cookie1599/)
+
+
+![Atrisa's github stats](https://github-readme-stats.vercel.app/api?username=cookie1599&show_icons=true&theme=cobalt)
 
 <!--
 **cookie1599/cookie1599** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
