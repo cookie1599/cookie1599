@@ -9,6 +9,7 @@ A Japanese themed development Discord server that focused to programming topic.
 🌐 https://mizudev.tech/
 
 
+[![Atrisa's github stats](https://github-readme-stats.vercel.app/api?username=cookie1599)](https://github.com/anuraghazra/github-readme-stats)
 
 
 you looking for me?
