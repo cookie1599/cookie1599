@@ -6,7 +6,7 @@ I'm Atrisa, A PHP Dev & CEO of Mizu Development
 A Japanese themed development Discord server that focused to programming topic.
 
 
-🌐 https://mizudev.tech/
+🌐 https://mizudev.net/
 
 
 
