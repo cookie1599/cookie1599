@@ -15,6 +15,7 @@ you looking for me?
 
 
 📩 [LinkedIn](https://linkedin.com/in/cookie1599/)
+📩 [Facebook](https://www.facebook.com/endyana.sirailfans)
 
 
 ![Atrisa's github stats](https://github-readme-stats.vercel.app/api?username=cookie1599&show_icons=true&theme=cobalt)
