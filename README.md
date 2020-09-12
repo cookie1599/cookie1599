@@ -1,5 +1,5 @@
 ### Hi there 👋
-I'm Atrisa, Freelancer Web Developer & CEO of Mizu Development
+I'm Atrisa, Freelance Web Developer & CEO of Mizu Development
 
 
 ### What is mizu dev?
