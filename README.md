@@ -3,7 +3,7 @@ I'm Atrisa, Nice to meet you y'all 😄
 
 
 - 🔭 I’m currently working on Propertree.id and Teaching at STT Terpadu Nurul Fikri
-- 🌱 I’m currently learning Backend Development using Go, PHP and C++
+- 🌱 I’m currently learning Backend Development using Go, and PHP
 
 <!-- 👯 I’m looking to collaborate on ...
 - 🤔 I’m looking for help with ...
