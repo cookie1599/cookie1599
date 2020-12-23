@@ -2,9 +2,6 @@
 I'm Atrisa, Nice to meet y'all 😄
 
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cookie1599&layout=compact)
-
-
 <!-- 🔭 I’m currently working on Propertree.id and Teaching at STT Terpadu Nurul Fikri
 - 🌱 I’m currently learning Backend Development using Go, and PHP
  👯 I’m looking to collaborate on ...
